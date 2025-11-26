@@ -1,0 +1,15 @@
+{
+  "name": "Tether USD Bridged ZED20",
+  "symbol": "USDT.z",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Bridged Tether USD (USDT.z) on ZED20 network.",
+  "website": "",
+  "explorer": "",
+  "status": "active",
+  "id": "0x84337e0a19638093125fa4ec4c71c95288d209650",
+  "links": {
+    "twitter": "https://twitter.com/bridge_USDTZ",
+    "email": "bridgeusdttether@gmail.com"
+  }
+}
