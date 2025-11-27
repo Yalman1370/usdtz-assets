@@ -3,8 +3,8 @@
   "symbol": "USDT.z",
   "type": "BEP20",
   "decimals": 18,
-  "website": "https://example.com",
-  "description": "Bridged USD Tether (USDT.z) operating on BSC.",
+  "website": "https://tether.to",
+  "description": "USDT.z is a bridged version of Tether USD deployed on Binance Smart Chain.",
   "explorer": "https://bscscan.com/token/0x84337e0a1963893125fa4ec4c71c95288d209650",
   "status": "active",
   "id": "0x84337e0a1963893125fa4ec4c71c95288d209650"
